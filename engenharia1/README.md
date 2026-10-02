@@ -7,6 +7,10 @@ Texto 2
 Esse texto informa que por mais que ultimamente, a engenharia de software,  programação e ciências da computação tem virado uma coisa só, cada uma delas tem implicações diferentes. Além disso, o texto pontua que a diferença entre a engenharia de software com as outras engenharias (mecânicos, civis, aeronáuticos, etc), é que na engenharia de software não é tão rigorosa com o erro, se tem “passe livre” para errar pois apenas em situações específicas isso implica na vida real. Porém, o software vem se integrando cada dia mais na nossa vida. Por isso, é necessário adotar métodos mais rigorosos para evitar grandes erros.
 
 3 Exemplos com comentários de trade-off
+Primeiro exemplo: qualidade vs velocidade da entrega do código 
+Segundo exemplo: modo usuário vs modo kernel
+No modo usuário, o acesso ao hardware fica resrito, mas garante a segurança das peças do comuputador. Já no modo kernel, eses acesso fica irrestrito.
+Terceiro exemplo: uso da IA nos códigos 
 
 O que fiz na API
 O que você aprendeu na API
