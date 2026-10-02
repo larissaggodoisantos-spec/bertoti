@@ -8,9 +8,11 @@ Esse texto informa que por mais que ultimamente, a engenharia de software,  prog
 
 3 Exemplos com comentários de trade-off
 Primeiro exemplo: qualidade vs velocidade da entrega do código 
+Acelerar as entregas do código, provavavelmente fará com que sua qualidade não seja 100% ao diminuir o tempo de revisão 
 Segundo exemplo: modo usuário vs modo kernel
 No modo usuário, o acesso ao hardware fica resrito, mas garante a segurança das peças do comuputador. Já no modo kernel, eses acesso fica irrestrito.
-Terceiro exemplo: uso da IA nos códigos 
+Terceiro exemplo: uso da IA nos códigos
+Ao adotar o uso da IA nos codigos, isso irá acelerá sua entrega, pode melhorar sua qualidade e auxiliar na revisão dele, porém, há tópicos que a IA não percebe e só devem ser revisados manualmente.
 
 O que fiz na API
 O que você aprendeu na API
